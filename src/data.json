@@ -1,0 +1,146 @@
+{
+  "navItems": [
+    { "label": "Home", "id": "home" },
+    { "label": "The Room", "id": "room" },
+    { "label": "Systems", "id": "systems" },
+    { "label": "Dojo", "id": "dojo" },
+    { "label": "Journal", "id": "journal" },
+    { "label": "Get in Touch", "id": "archive" }
+  ],
+  "roomItems": [
+    { "label": "Art of Brand", "id": "art-of-brand" },
+    { "label": "Campfyer", "id": "campfyer" },
+    { "label": "EVO", "id": "evo" },
+    { "label": "Deeper", "id": "deeper" }
+  ],
+  "roomsData": [
+    {
+      "id": "art-of-brand",
+      "title": "Art of Brand",
+      "narrative": "Create a Legacy. Bespoke brand thinking. Designed to build lasting impressions. Strategies, Design, & Website for brands.",
+      "duration": "Premium Cultural Identity | Brand Engine",
+      "date": "Jan 1",
+      "quote": "Ensō ✦ Wholeness That Lives",
+      "systemMap": ["Insight", "Archetype", "Visuals", "Messaging", "Perception"],
+      "impact": ["Brand Identity", "Visual Language", "Market Positioning"],
+      "impactDetails": {
+        "Brand Identity": "The visual and verbal soul of your project.",
+        "Visual Language": "A cohesive system of typography, color, and imagery.",
+        "Market Positioning": "Defining exactly where you stand in the landscape."
+      },
+      "image": "https://images.unsplash.com/photo-1507608616759-54f48f0af0ee?q=80&w=1887&auto=format&fit=crop"
+    },
+    {
+      "id": "campfyer",
+      "title": "Campfyer",
+      "narrative": "Spark Culture. Ignite Stories. Designed to move people. Content, Campaigns, & Community for brands. Your storytelling studio.",
+      "duration": "Campaign & Storytelling | Content Engine",
+      "date": "Jun 25",
+      "quote": "Komorebi ✦ Sunlight Through the Trees",
+      "systemMap": ["Observe", "Map", "Test", "Amplify", "Compound"],
+      "impact": ["Story Architecture", "Audience Growth", "Community Depth"],
+      "impactDetails": {
+        "Story Architecture": "A sustainable cadence for high-value creation.",
+        "Audience Growth": "Attracting the right tribe, not just any traffic.",
+        "Community Depth": "Moving from passive followers to active participants."
+      },
+      "image": "https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?q=80&w=2070&auto=format&fit=crop"
+    },
+    {
+      "id": "evo",
+      "title": "EVO",
+      "narrative": "EVO designs the invisible architecture of growth.\nSales, automation, and customer journeys move in quiet alignment.\nThe system nurtures attention, builds trust, and converts momentum into revenue.",
+      "duration": "AI Automation Technology | Sales Engine",
+      "date": "Mar 22",
+      "quote": "Ukiyo ✦ The Floating World",
+      "systemMap": ["Map", "Nurture", "Time", "Convert", "Repeat"],
+      "impact": ["Distribution Flow", "Automation", "Revenue Growth"],
+      "impactDetails": {
+        "Distribution Flow": "Automated pathways that convert interest into commitment.",
+        "Automation": "Removing manual friction from your growth engine.",
+        "Revenue Growth": "Scalable income that supports your creative freedom."
+      },
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=2070&auto=format&fit=crop"
+    },
+    {
+      "id": "beat-therapy",
+      "title": "Beat Therapy",
+      "narrative": "Find your Tribe. We fuse the dynamic energy with timeless elegance to craft unforgettable brand experiences that authentically connect you with your target audience.",
+      "duration": "Culture Curation | Marketing XP Engine",
+      "date": "Oct 02",
+      "quote": "Ubuntu ✦ I am because we are",
+      "systemMap": ["Cultural Signal", "Audience Ritual", "Experiential Memory"],
+      "impact": ["Visual Language", "Sonic Identity", "Emotional Resonance"],
+      "impactDetails": {
+        "Visual Language": "Unlocking new pathways through rhythmic immersion.",
+        "Sonic Identity": "Developing a unique auditory signature.",
+        "Emotional Resonance": "Connecting with audiences on a visceral level."
+      },
+      "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?q=80&w=2070&auto=format&fit=crop"
+    },
+    {
+      "id": "deeper",
+      "title": "Deeper",
+      "narrative": "We go inside your operation and fix what's slowing you down. Systems, structure, and strategy rebuilt for scale. We unlearn the generic, clear the bottlenecks, and build workflows, and mind sets that actually work.",
+      "duration": "Expansion & Operations | Growth Engine",
+      "date": "Aug 14",
+      "quote": "Kintsugi ✦ To Join With Gold",
+      "systemMap": ["Audit", "Unlearning", "Restructuring", "Flow"],
+      "impact": ["Expansion Logic", "Team Alignment", "Long-term Vision"],
+      "impactDetails": {
+        "Expansion Logic": "Removing bottlenecks and streamlining workflows.",
+        "Team Alignment": "Ensuring everyone is rowing in the same direction.",
+        "Long-term Vision": "Building for the decade, not just the quarter."
+      },
+      "image": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?q=80&w=1527&auto=format&fit=crop"
+    }
+  ],
+  "journalItems": [
+    {
+      "id": "j1",
+      "title": "World Building: Part 1 - Gravity Control",
+      "excerpt": "The Founder's Orbit: The 7-11-4 Rule for Trust...",
+      "date": "September 11, 2025",
+      "link": "https://lotusroomos.substack.com/p/presence-gravity",
+      "image": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?q=80&w=2067&auto=format&fit=crop"
+    },
+    {
+      "id": "j2",
+      "title": "Tastemakers Blueprint: Part 2 Art vs Entertainment",
+      "excerpt": "The Black Creative Renaissance: The Brand Playbook...",
+      "date": "August 04, 2025",
+      "link": "https://lotusroomos.substack.com/p/tastemakers-blueprint-part-2-art",
+      "image": "https://images.unsplash.com/photo-1503694978374-8a2fa686963a?q=80&w=2069&auto=format&fit=crop"
+    },
+    {
+      "id": "j3",
+      "title": "Tastemakers Blueprint: Part 1 Curation",
+      "excerpt": "How Music Tastemakers Build Culture and Movements...",
+      "date": "June 19, 2025",
+      "link": "https://lotusroomos.substack.com/p/tastemakers-blueprint-part-1",
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1964&auto=format&fit=crop"
+    }
+  ],
+  "dojoSteps": [
+    {
+      "step": "01",
+      "title": "Observe",
+      "desc": "Understand where you are.\nWe audit narratives, positioning, systems, and attention."
+    },
+    {
+      "step": "02",
+      "title": "Build",
+      "desc": "Apply Lotus Room frameworks to real projects.\nBrand, story, offers, and systems take form."
+    },
+    {
+      "step": "03",
+      "title": "Test",
+      "desc": "Put the work into motion.\nContent, systems, and messaging meet the real world."
+    },
+    {
+      "step": "04",
+      "title": "Refine",
+      "desc": "What works compounds.\nWhat doesn’t evolves.\n\nSystems grow stronger over time."
+    }
+  ]
+}
