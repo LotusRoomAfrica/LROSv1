@@ -1,4 +1,45 @@
 {
+  "homepage": {
+    "headline": "Lotus Room",
+    "tagline": "Culture by Design",
+    "body": "We build emerging startups. Helping founders grow from ideas to venture-ready companies.",
+    "cta": "Explore the Room"
+  },
+  "about": {
+    "headline": "About Lotus Room",
+    "intro": "Lotus Room is a premium creative studio. We craft systems, strategies, and operational frameworks that help startups, creators, NGOs, and digital product companies grow with cultural resonance.",
+    "body": "Inside Lotus Room, we focus on designing founder narratives, brand architecture, growth systems, and operational clarity. Our goal is to give every project the structure it needs to scale, thrive, and leave a lasting impact.",
+    "audience": [
+      "Creators",
+      "Emerging startups",
+      "Studios",
+      "NGOs",
+      "Digital product companies"
+    ],
+    "cta": "Discover Our Systems"
+  },
+  "systems": {
+    "headline": "Our Rooms",
+    "intro": "Lotus Room is organized into five integrated systems, each designed to solve specific growth challenges."
+  },
+  "dojo": {
+    "headline": "The Dojo",
+    "intro": "The Dojo is our intensive incubation program for early-stage founders and creators. It's a structured environment where ideas are tested, refined, and built into scalable systems.",
+    "body": "We take a hands-on approach, working closely with you to develop your brand narrative, operational framework, and growth strategy. The Dojo is designed to accelerate your progress and prepare you for the next stage of growth.",
+    "duration": "12 Weeks",
+    "format": "Hybrid (Online & In-Person)",
+    "cta": "Apply to the Dojo"
+  },
+  "journal": {
+    "headline": "Journal"
+  },
+  "contact": {
+    "headline": "Get in Touch",
+    "tagline": "Let's Build Something Meaningful",
+    "body": "Whether you have a specific project in mind or just want to explore possibilities, we're always open to a conversation.",
+    "email": "hello@lotusroom.studio",
+    "cta": "Submit"
+  },
   "navItems": [
     { "label": "Home", "id": "home" },
     { "label": "The Room", "id": "room" },
@@ -17,7 +58,7 @@
     {
       "id": "art-of-brand",
       "title": "Art of Brand",
-      "narrative": "Create a Legacy. Bespoke brand thinking. Designed to build lasting impressions. Strategies, Design, & Website for brands.",
+      "narrative": "Create a legacy through bespoke brand thinking, strategy, and design. Build lasting impressions and premium brand identity.",
       "duration": "Premium Cultural Identity | Brand Engine",
       "date": "Jan 1",
       "quote": "Ensō ✦ Wholeness That Lives",
@@ -28,12 +69,12 @@
         "Visual Language": "A cohesive system of typography, color, and imagery.",
         "Market Positioning": "Defining exactly where you stand in the landscape."
       },
-      "image": "https://images.unsplash.com/photo-1507608616759-54f48f0af0ee?q=80&w=1887&auto=format&fit=crop"
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=2064&auto=format&fit=crop"
     },
     {
       "id": "campfyer",
       "title": "Campfyer",
-      "narrative": "Spark Culture. Ignite Stories. Designed to move people. Content, Campaigns, & Community for brands. Your storytelling studio.",
+      "narrative": "Spark culture and ignite stories through content, campaigns, and community. Build engaging brand narratives.",
       "duration": "Campaign & Storytelling | Content Engine",
       "date": "Jun 25",
       "quote": "Komorebi ✦ Sunlight Through the Trees",
@@ -44,12 +85,12 @@
         "Audience Growth": "Attracting the right tribe, not just any traffic.",
         "Community Depth": "Moving from passive followers to active participants."
       },
-      "image": "https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?q=80&w=2070&auto=format&fit=crop"
+      "image": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?q=80&w=2070&auto=format&fit=crop"
     },
     {
       "id": "evo",
       "title": "EVO",
-      "narrative": "EVO designs the invisible architecture of growth.\nSales, automation, and customer journeys move in quiet alignment.\nThe system nurtures attention, builds trust, and converts momentum into revenue.",
+      "narrative": "Design invisible growth architecture with AI automation and sales systems. Build trust, nurture momentum, convert attention into revenue.",
       "duration": "AI Automation Technology | Sales Engine",
       "date": "Mar 22",
       "quote": "Ukiyo ✦ The Floating World",
@@ -65,7 +106,7 @@
     {
       "id": "beat-therapy",
       "title": "Beat Therapy",
-      "narrative": "Find your Tribe. We fuse the dynamic energy with timeless elegance to craft unforgettable brand experiences that authentically connect you with your target audience.",
+      "narrative": "Find your tribe through cultural curation, experiential marketing, and sonic identity. Build authentic brand experiences.",
       "duration": "Culture Curation | Marketing XP Engine",
       "date": "Oct 02",
       "quote": "Ubuntu ✦ I am because we are",
@@ -81,7 +122,7 @@
     {
       "id": "deeper",
       "title": "Deeper",
-      "narrative": "We go inside your operation and fix what's slowing you down. Systems, structure, and strategy rebuilt for scale. We unlearn the generic, clear the bottlenecks, and build workflows, and mind sets that actually work.",
+      "narrative": "Optimize internal operations, strategy, and team alignment for sustainable growth.",
       "duration": "Expansion & Operations | Growth Engine",
       "date": "Aug 14",
       "quote": "Kintsugi ✦ To Join With Gold",
@@ -98,49 +139,52 @@
   "journalItems": [
     {
       "id": "j1",
-      "title": "World Building: Part 1 - Gravity Control",
+      "title": "World Building: Part 1 — Gravity Control",
       "excerpt": "The Founder's Orbit: The 7-11-4 Rule for Trust...",
       "date": "September 11, 2025",
       "link": "https://lotusroomos.substack.com/p/presence-gravity",
-      "image": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?q=80&w=2067&auto=format&fit=crop"
+      "image": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?q=80&w=2067&auto=format&fit=crop",
+      "category": "Brand Strategy"
     },
     {
       "id": "j2",
-      "title": "Tastemakers Blueprint: Part 2 Art vs Entertainment",
+      "title": "Tastemakers Blueprint: Part 2 — Art vs Entertainment",
       "excerpt": "The Black Creative Renaissance: The Brand Playbook...",
       "date": "August 04, 2025",
       "link": "https://lotusroomos.substack.com/p/tastemakers-blueprint-part-2-art",
-      "image": "https://images.unsplash.com/photo-1503694978374-8a2fa686963a?q=80&w=2069&auto=format&fit=crop"
+      "image": "https://images.unsplash.com/photo-1503694978374-8a2fa686963a?q=80&w=2069&auto=format&fit=crop",
+      "category": "Culture"
     },
     {
       "id": "j3",
-      "title": "Tastemakers Blueprint: Part 1 Curation",
+      "title": "Tastemakers Blueprint: Part 1 — Curation",
       "excerpt": "How Music Tastemakers Build Culture and Movements...",
       "date": "June 19, 2025",
       "link": "https://lotusroomos.substack.com/p/tastemakers-blueprint-part-1",
-      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1964&auto=format&fit=crop"
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1964&auto=format&fit=crop",
+      "category": "Systems"
     }
   ],
   "dojoSteps": [
     {
       "step": "01",
-      "title": "Observe",
-      "desc": "Understand where you are.\nWe audit narratives, positioning, systems, and attention."
+      "title": "Foundation",
+      "desc": "Early-stage brand clarity and narrative foundations. Build systems and structures that support long-term growth."
     },
     {
       "step": "02",
       "title": "Build",
-      "desc": "Apply Lotus Room frameworks to real projects.\nBrand, story, offers, and systems take form."
+      "desc": "Create content, campaigns, and cultural storytelling to grow audience and engagement."
     },
     {
       "step": "03",
-      "title": "Test",
-      "desc": "Put the work into motion.\nContent, systems, and messaging meet the real world."
+      "title": "Develop",
+      "desc": "Scale operations, align teams, and refine internal systems for growth."
     },
     {
       "step": "04",
-      "title": "Refine",
-      "desc": "What works compounds.\nWhat doesn’t evolves.\n\nSystems grow stronger over time."
+      "title": "Capital",
+      "desc": "Prepare venture-ready businesses, funding strategy, and growth acceleration."
     }
   ]
 }
