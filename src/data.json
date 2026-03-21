@@ -1,14 +1,19 @@
 {
   "homepage": {
-    "headline": "Lotus Room",
+    "headline": "Strategy Studio",
     "tagline": "Culture by Design",
     "body": "We build emerging startups. Helping founders grow from ideas to venture-ready companies.",
     "cta": "Explore the Room"
   },
   "about": {
-    "headline": "About Lotus Room",
-    "intro": "Lotus Room is a premium creative studio. We craft systems, strategies, and operational frameworks that help startups, creators, NGOs, and digital product companies grow with cultural resonance.",
-    "body": "Inside Lotus Room, we focus on designing founder narratives, brand architecture, growth systems, and operational clarity. Our goal is to give every project the structure it needs to scale, thrive, and leave a lasting impact.",
+    "headline": "Our Studio",
+    "body": "We design brand architecture, operational systems, and growth strategy for emerging ventures — combining culture, technology, and narrative to build companies that scale with clarity and relevance.",
+    "whatWeDo": [
+      { "title": "Strategy", "desc": "Brand architecture and positioning" },
+      { "title": "Systems", "desc": "Operations, AI, and automation" },
+      { "title": "Growth", "desc": "Marketing, sales, and venture readiness" },
+      { "title": "Culture", "desc": "Narrative and cultural resonance" }
+    ],
     "audience": [
       "Creators",
       "Emerging startups",
@@ -20,14 +25,28 @@
   },
   "systems": {
     "headline": "Our Rooms",
-    "intro": "Lotus Room is organized into five integrated systems, each designed to solve specific growth challenges."
+    "intro": "Our studio is organized into five integrated systems, each designed to solve specific growth challenges."
   },
   "dojo": {
     "headline": "The Dojo",
-    "intro": "The Dojo is our intensive incubation program for early-stage founders and creators. It's a structured environment where ideas are tested, refined, and built into scalable systems.",
-    "body": "We take a hands-on approach, working closely with you to develop your brand narrative, operational framework, and growth strategy. The Dojo is designed to accelerate your progress and prepare you for the next stage of growth.",
-    "duration": "12 Weeks",
-    "format": "Hybrid (Online & In-Person)",
+    "subtitle": "Venture Craft",
+    "intro": "A structured environment where founders turn ideas into working ventures.\nBrand, systems, and growth are built together—so ideas become companies.",
+    "waysToEnter": [
+      {
+        "title": "Dojo System — Product",
+        "desc": "Self-paced venture framework.\nLearn the foundations of narrative, brand architecture, operations, and growth.\n\nFor founders building independently."
+      },
+      {
+        "title": "Dojo Cohort — Incubation",
+        "desc": "12-week hands-on program.\nWork directly with our team to develop your venture in real time.\n\nFormat\nHybrid (Online + Nairobi Studio)\n\n8 Founders per cohort."
+      }
+    ],
+    "stagesIntro": "The Four Stages of Venture Craft\nEvery founder moves through the same four stages.",
+    "cohortDetails": {
+      "Duration": "12 Weeks",
+      "Seats": "8 Founders",
+      "Next Session": "Summer Dojo"
+    },
     "cta": "Apply to the Dojo"
   },
   "journal": {
@@ -35,9 +54,9 @@
   },
   "contact": {
     "headline": "Get in Touch",
-    "tagline": "Let's Build Something Meaningful",
+    "tagline": "learn build, release.",
     "body": "Whether you have a specific project in mind or just want to explore possibilities, we're always open to a conversation.",
-    "email": "hello@lotusroom.studio",
+    "email": "info@lotusroom.studio",
     "cta": "Submit"
   },
   "navItems": [
@@ -58,81 +77,96 @@
     {
       "id": "art-of-brand",
       "title": "Art of Brand",
-      "narrative": "Create a legacy through bespoke brand thinking, strategy, and design. Build lasting impressions and premium brand identity.",
-      "duration": "Premium Cultural Identity | Brand Engine",
-      "date": "Jan 1",
-      "quote": "Ensō ✦ Wholeness That Lives",
-      "systemMap": ["Insight", "Archetype", "Visuals", "Messaging", "Perception"],
-      "impact": ["Brand Identity", "Visual Language", "Market Positioning"],
-      "impactDetails": {
-        "Brand Identity": "The visual and verbal soul of your project.",
-        "Visual Language": "A cohesive system of typography, color, and imagery.",
-        "Market Positioning": "Defining exactly where you stand in the landscape."
-      },
+      "subtitle": "Legacy Engine",
+      "shortDesc": "Brand architecture and narrative design.",
+      "hoverDesc": "Define the story, positioning, and visual language of the venture. This room focuses on creating brands that communicate clearly and resonate culturally.",
+      "roomDesc": "Design your brand to leave a lasting impression. Define identity, craft visual language, refine messaging, and position your brand for cultural resonance. Dive into archetypes, storytelling, and frameworks that ensure every touchpoint reflects your vision.",
+      "howItWorksIntro": "Step Flow:",
+      "howItWorksList": [
+        "Brand Insight – Analyze vision, audience, and culture",
+        "Archetype Mapping – Define core brand personality",
+        "Messaging Framework – Craft story, tone, and positioning",
+        "Visual Language – Design logo, typography, and assets",
+        "Integration – Embed into touchpoints and systems"
+      ],
+      "outcome": "Foundational brand architecture\nClear archetypes and narrative frameworks\nStrategic clarity and market positioning\nVisual and messaging consistency\nTools to scale perception and influence",
+      "ctaText": "Book Art of Brand",
       "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=2064&auto=format&fit=crop"
     },
     {
       "id": "campfyer",
       "title": "Campfyer",
-      "narrative": "Spark culture and ignite stories through content, campaigns, and community. Build engaging brand narratives.",
-      "duration": "Campaign & Storytelling | Content Engine",
-      "date": "Jun 25",
-      "quote": "Komorebi ✦ Sunlight Through the Trees",
-      "systemMap": ["Observe", "Map", "Test", "Amplify", "Compound"],
-      "impact": ["Story Architecture", "Audience Growth", "Community Depth"],
-      "impactDetails": {
-        "Story Architecture": "A sustainable cadence for high-value creation.",
-        "Audience Growth": "Attracting the right tribe, not just any traffic.",
-        "Community Depth": "Moving from passive followers to active participants."
-      },
+      "subtitle": "Cultural Storytelling",
+      "shortDesc": "Content and cultural storytelling.",
+      "hoverDesc": "Design the narratives and content systems that make a brand visible and relevant within culture.",
+      "roomDesc": "Spark culture and ignite narratives. Build campaigns, content flows, and audience growth systems that turn ideas into cultural moments.",
+      "howItWorksIntro": "Step Flow:",
+      "howItWorksList": [
+        "Observe – Research trends, audience, and culture",
+        "Map – Build content strategy and storytelling arcs",
+        "Test – Trial campaigns, messages, and visuals",
+        "Amplify – Scale content across channels",
+        "Compound – Integrate learnings into ongoing storytelling"
+      ],
+      "outcome": "Story architecture for brand narratives\nCampaign and content frameworks\nAudience growth and engagement tools\nCommunity-building strategies\nAmplification systems",
+      "ctaText": "Book Campfyer",
       "image": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?q=80&w=2070&auto=format&fit=crop"
     },
     {
       "id": "evo",
       "title": "EVO",
-      "narrative": "Design invisible growth architecture with AI automation and sales systems. Build trust, nurture momentum, convert attention into revenue.",
-      "duration": "AI Automation Technology | Sales Engine",
-      "date": "Mar 22",
-      "quote": "Ukiyo ✦ The Floating World",
-      "systemMap": ["Map", "Nurture", "Time", "Convert", "Repeat"],
-      "impact": ["Distribution Flow", "Automation", "Revenue Growth"],
-      "impactDetails": {
-        "Distribution Flow": "Automated pathways that convert interest into commitment.",
-        "Automation": "Removing manual friction from your growth engine.",
-        "Revenue Growth": "Scalable income that supports your creative freedom."
-      },
+      "subtitle": "Growth Engine",
+      "shortDesc": "Growth systems and automation.",
+      "hoverDesc": "Build the infrastructure behind growth. Automation, sales systems, and operational workflows designed to scale.",
+      "roomDesc": "Invisible systems for scalable growth. Design AI-assisted automation, sales flows, and distribution pathways that nurture attention, build trust, and convert momentum into revenue.",
+      "howItWorksIntro": "Step Flow:",
+      "howItWorksList": [
+        "Map – Define customer journey and sales paths",
+        "Nurture – Set automated engagement sequences",
+        "Convert – Optimize conversion touchpoints",
+        "Repeat – Automate and iterate for efficiency",
+        "Measure – Analyze data, refine, and scale"
+      ],
+      "outcome": "AI-driven growth architecture\nAutomated sales and nurture flows\nDistribution and engagement pipelines\nPerformance insights and dashboards\nScalable attention-to-revenue system",
+      "ctaText": "Book EVO",
       "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=2070&auto=format&fit=crop"
     },
     {
       "id": "beat-therapy",
       "title": "Beat Therapy",
-      "narrative": "Find your tribe through cultural curation, experiential marketing, and sonic identity. Build authentic brand experiences.",
-      "duration": "Culture Curation | Marketing XP Engine",
-      "date": "Oct 02",
-      "quote": "Ubuntu ✦ I am because we are",
-      "systemMap": ["Cultural Signal", "Audience Ritual", "Experiential Memory"],
-      "impact": ["Visual Language", "Sonic Identity", "Emotional Resonance"],
-      "impactDetails": {
-        "Visual Language": "Unlocking new pathways through rhythmic immersion.",
-        "Sonic Identity": "Developing a unique auditory signature.",
-        "Emotional Resonance": "Connecting with audiences on a visceral level."
-      },
+      "subtitle": "Cultural Curation",
+      "shortDesc": "Culture, sound, and experience.",
+      "hoverDesc": "Connect ventures with communities through music, culture, and curated experiences.",
+      "roomDesc": "Connect with your audience through experiences. Curate sonic identity, cultural rituals, and immersive brand experiences that create emotional resonance.",
+      "howItWorksIntro": "Step Flow:",
+      "howItWorksList": [
+        "Signal – Define cultural and sonic markers",
+        "Ritual – Design recurring audience interactions",
+        "Experience – Build immersive campaigns",
+        "Connect – Amplify community and engagement",
+        "Reflect – Measure impact and iterate experiences"
+      ],
+      "outcome": "Sonic and cultural identity curation\nExperiential marketing frameworks\nAudience ritual and engagement design\nEmotional resonance and loyalty tools\nImmersive brand experiences",
+      "ctaText": "Book Beat Therapy",
       "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?q=80&w=2070&auto=format&fit=crop"
     },
     {
       "id": "deeper",
       "title": "Deeper",
-      "narrative": "Optimize internal operations, strategy, and team alignment for sustainable growth.",
-      "duration": "Expansion & Operations | Growth Engine",
-      "date": "Aug 14",
-      "quote": "Kintsugi ✦ To Join With Gold",
-      "systemMap": ["Audit", "Unlearning", "Restructuring", "Flow"],
-      "impact": ["Expansion Logic", "Team Alignment", "Long-term Vision"],
-      "impactDetails": {
-        "Expansion Logic": "Removing bottlenecks and streamlining workflows.",
-        "Team Alignment": "Ensuring everyone is rowing in the same direction.",
-        "Long-term Vision": "Building for the decade, not just the quarter."
-      },
+      "subtitle": "Operations & Scale",
+      "shortDesc": "Strategy and operational clarity.",
+      "hoverDesc": "Align teams, strategy, and internal systems to support sustainable growth.",
+      "roomDesc": "Optimize your internal structures for sustainable growth. Build workflows, refine strategy, and align teams with precision.",
+      "howItWorksIntro": "Step Flow:",
+      "howItWorksList": [
+        "Audit – Assess current systems and processes",
+        "Unlearn – Identify inefficiencies and outdated methods",
+        "Restructure – Build clear workflows and structures",
+        "Align – Coordinate teams and operational flow",
+        "Scale – Optimize, measure, and prepare for growth"
+      ],
+      "outcome": "Operational clarity and workflow mapping\nTeam alignment and leadership frameworks\nBottleneck identification and resolution\nScalable systems for growth\nSustainable long-term strategy",
+      "ctaText": "Book Deeper",
       "image": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?q=80&w=1527&auto=format&fit=crop"
     }
   ],
@@ -169,22 +203,38 @@
     {
       "step": "01",
       "title": "Foundation",
-      "desc": "Early-stage brand clarity and narrative foundations. Build systems and structures that support long-term growth."
+      "subtitle": "Clarity",
+      "desc": "Define the idea, audience, and cultural position.",
+      "hoverTitle": "Clarity before momentum.",
+      "hoverDesc": "Define the problem, the audience, and the narrative that gives the venture meaning. This stage establishes the strategic and cultural foundation that everything else builds on.",
+      "benefits": ["Early-stage clarity", "Narrative foundations", "Brand structure"]
     },
     {
       "step": "02",
       "title": "Build",
-      "desc": "Create content, campaigns, and cultural storytelling to grow audience and engagement."
+      "subtitle": "Presence",
+      "desc": "Create content systems and storytelling that attract your audience.",
+      "hoverTitle": "Turning vision into presence.",
+      "hoverDesc": "Create the public layer of the venture through storytelling, content systems, and campaigns that attract the right audience.",
+      "benefits": ["Content creation", "Campaigns", "Storytelling systems"]
     },
     {
       "step": "03",
       "title": "Develop",
-      "desc": "Scale operations, align teams, and refine internal systems for growth."
+      "subtitle": "Structure",
+      "desc": "Design operations, workflows, and internal systems for scale.",
+      "hoverTitle": "Structure behind the story.",
+      "hoverDesc": "Design the internal systems that allow the venture to operate and scale. Workflows, automation, and operational clarity are built here.",
+      "benefits": ["Scale operations", "Align teams", "Refine internal systems"]
     },
     {
       "step": "04",
       "title": "Capital",
-      "desc": "Prepare venture-ready businesses, funding strategy, and growth acceleration."
+      "subtitle": "Expansion",
+      "desc": "Prepare for partnerships, funding, and venture growth.",
+      "hoverTitle": "Preparing the venture for expansion.",
+      "hoverDesc": "Position the company for growth, partnerships, and investment. This stage focuses on venture readiness and long-term scale.",
+      "benefits": ["Venture-ready strategies", "Funding", "Growth acceleration"]
     }
   ]
 }
